@@ -50,6 +50,7 @@ button {
   height: 36px;
   border: transparent solid 1px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .button:hover {
